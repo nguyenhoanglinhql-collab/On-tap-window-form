@@ -1,0 +1,17 @@
+D:\visual studio\b3\bin\Debug\net10.0-windows\b3.exe
+D:\visual studio\b3\bin\Debug\net10.0-windows\b3.deps.json
+D:\visual studio\b3\bin\Debug\net10.0-windows\b3.runtimeconfig.json
+D:\visual studio\b3\bin\Debug\net10.0-windows\b3.dll
+D:\visual studio\b3\bin\Debug\net10.0-windows\b3.pdb
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.Form1.resources
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.csproj.GenerateResource.cache
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.AssemblyInfoInputs.cache
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.AssemblyInfo.cs
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.csproj.CoreCompileInputs.cache
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.dll
+D:\visual studio\b3\obj\Debug\net10.0-windows\refint\b3.dll
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.pdb
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.genruntimeconfig.cache
+D:\visual studio\b3\obj\Debug\net10.0-windows\ref\b3.dll
+D:\visual studio\b3\obj\Debug\net10.0-windows\b3.csproj.Up2Date
